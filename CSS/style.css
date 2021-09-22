@@ -1,0 +1,45 @@
+body{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.navbar {
+    background-color: white;
+    
+}
+
+.quem-somos {
+    background-color: #EFEEF1;
+    text-align: center; 
+    color: rgb(133, 98, 133);
+
+}
+.margin {
+    padding-top: 30px;
+    padding-bottom: 30px
+}
+.parceiros{ 
+    background-color: rgb(159, 155, 167);
+    text-align: center;
+    color: rgb(218, 212, 221);
+}
+.serviços{
+   background-color: rgb(189, 185, 196);
+   text-align: center; 
+   color: indigo ;
+}
+.paragrafo_serviços{
+    font-size: 19px;
+    text-align: justify;
+    color: rgb(147, 122, 150);
+
+}
+.bg-footer{
+    font-size: 19px;
+    background-color: black;
+    color: rgb(81, 79, 83);
+    text-align: right;
+}
+.p-quem-somos{
+    text-align: justify;
+    font-size: 20px;
+}
