@@ -22,9 +22,6 @@
 
 <br/>
 
-
-<br/>
-
 ## Stack utilizada
 
 <p>
@@ -34,6 +31,10 @@
 </p>
 
 <br/>
+
+## GIF 
+
+<img src="aula_bootstrap.gif" />
 
 
 ## 🔗 Links
